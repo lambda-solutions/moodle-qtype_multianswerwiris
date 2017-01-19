@@ -1,5 +1,5 @@
 {
-	"name": "lambda-solutions/moodle-qtype_multianswerwiris",
+	"name": "lambda-solutions/qtype_multianswerwiris",
 	"description": "Wiris question type multi answer",
         "license": "GPL-3.0",
 	"type": "moodle-qtype",
